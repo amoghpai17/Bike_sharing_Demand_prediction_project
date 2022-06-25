@@ -24,4 +24,4 @@ Some of the key takeaways from this project are -
 
 6.Hyperparameter tuning was performed on all the models using Grid Search CV to get best parameters and best scores.
 
-7.Random Forest Model performed best among the five models with train R2 score of 83.9 % and test R2 score of 82.23 %.
+7.Random Forest Model performed best among the five models with train R2 score of 87.47 % and test R2 score of 83.65 %.
